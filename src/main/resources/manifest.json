@@ -1,0 +1,18 @@
+{
+  "Group": "com.leomarlinhares",
+  "Name": "HytaleTestMod",
+  "Version": "1.0.0",
+  "Description": "Aprendendo a criar mods no Hytale",
+  "Authors": [
+    {
+      "Name": "Leomar Linhares"
+    }
+  ],
+  "Website": "leomarlinhares.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.leomarlinhares.plugin.HytaleTestsMod",
+  "IncludeAssetPack": true
+}
